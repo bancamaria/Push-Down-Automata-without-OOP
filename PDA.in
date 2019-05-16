@@ -1,0 +1,20 @@
+6
+0 1 2 3 4 5
+4
+a b c d
+5
+Z A B C D
+0
+Z
+11
+0 a Z 1 AZ
+1 a A 0 AAA
+0 a A 1 AA
+0 b A 2 -
+2 b A 2 -
+2 c Z 3 DZ
+3 c D 2 D
+2 c D 3 DD
+2 d D 4 -
+4 d D 4 -
+4 - Z 5 -
